@@ -10,20 +10,20 @@ The below token is a static one, validation can be happened by creating a collec
 
 For validation uncomment the code in AuthController.js file by sumitting the Db url.
 
-![Alt text](screenshots/login.png)
+![Alt text](screenshots/login.PNG)
 
 ## The below Api endpoint will generate the list of devices.
 
 ### [Get devices(http://localhost:3000/getDevices), method : get]
 
-![Alt text](screenshots/devices.png)
+![Alt text](screenshots/devices.PNG)
 
 
 ## Api endpoint which will return the locations.
 
 ### [Get devices(http://localhost:3000/getLocations/A219/2), parameters : device Id, page(optional) method : get]
 
-![Alt text](screenshots/deviceLocations.png)
+![Alt text](screenshots/deviceLocations.PNG)
 
 ## Api endpoint to return halts status of a container.
 
@@ -40,7 +40,7 @@ For validation uncomment the code in AuthController.js file by sumitting the Db 
 	calculateTimeDifference(Methos calculats the difference between two GMT time formats in Minutes)
 ```
 
-![Alt text](screenshots/haltStatus.png)
+![Alt text](screenshots/haltStatus.PNG)
 
 
 
