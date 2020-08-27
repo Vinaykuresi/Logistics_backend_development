@@ -36,8 +36,8 @@ For validation uncomment the code in AuthController.js file by sumitting the Db 
 ### The methods used are :
 
 ```
-	distanceInKmBetweenEarthCoordinates(Method calculates the distance between the earth C0-0rdiantes in Meters)
-	calculateTimeDifference(Methos calculats the difference between two GMT time formats in Minutes)
+	distanceInKmBetweenEarthCoordinates (Method calculates the distance between the earth C0-0rdiantes in Meters)
+	calculateTimeDifference (Method to calculate the difference between two GMT time formats in Minutes)
 ```
 
 ![Alt text](screenshots/haltStatus.PNG)
